@@ -1,4 +1,4 @@
-![logo](https://github.com/aditi10113/aditi_bhargava/blob/main/GITHUB%20BANNER.png)
+![logo](https://github.com/aditi10113/aditi10113/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Aditi Bhargava</h1>
 <h3 align="center">UI/UX Designer | Frontend Developer | Student at VIT Bhopal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
