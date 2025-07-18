@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CB2C9&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver;Always+Learning+and+Building..." alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 💻 I’m a passionate developer who loves building fast, responsive, and elegant web applications using the **MERN stack**.
 - 🌱 Currently mastering system design, backend scaling, and frontend performance.
