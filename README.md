@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CB2C9&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver;Always+Learning+and+Building..." alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 💻 I’m a passionate developer who loves building fast, responsive, and elegant web applications using the **MERN stack**.
 - 🌱 Currently mastering system design, backend scaling, and frontend performance.
@@ -22,16 +22,6 @@
 <a href="https://leetcode.com/u/user3565gs/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" height="30" width="40" /></a>
 <a href="https://discord.gg/aditi095888" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
-
----
-
-### 🏅 Certifications:
-| Certificate | Provider | Credential |
-|-------------|----------|------------|
-| ✅ Meta Front-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/41b0a8cf974f4cb91d7e50306bbaf0ac) |
-| ✅ Meta Back-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/034882d6c0cd9d4520364ad5a0e687a6) |
-| ✅ AWS Certified Cloud Practitioner | Amazon Web Services | 🪪 [See Badge](https://www.credly.com/badges/30fbe2b2-b98a-4ab8-a184-961f6877e3e3/public_url) |
-| ✅ Google Cloud Digital Leader | Google Cloud | 🪪 [See Badge](https://www.credential.net/17c04e2f-b8b6-4178-9c10-c74d24a8c4a1) |
 
 ---
 
@@ -56,6 +46,14 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/user3565gs?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats">
 </p>
+
+---
+
+### 🏅 Certifications:
+| Certificate | Provider | Credential |
+|-------------|----------|------------|
+| ✅ Meta Front-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/41b0a8cf974f4cb91d7e50306bbaf0ac) |
+| ✅ Meta Back-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/034882d6c0cd9d4520364ad5a0e687a6) |
 
 ---
 
