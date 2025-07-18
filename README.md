@@ -1,47 +1,58 @@
 ![logo](https://github.com/aditi10113/aditi10113/blob/main/GITHUB%20BANNER.png)
 
 <h1 align="center">Hi 👋, I'm Aditi Bhargava</h1>
-<h3 align="center">MERN Stack Developer | UI/UX Designer | Student at VIT Bhopal</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CB2C9&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver;Always+Learning+and+Building..." alt="Typing SVG" />
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 💻 I’m a passionate developer who loves building fast, responsive, and elegant web applications using the **MERN stack**.
-- 🎨 I enjoy transforming complex problems into intuitive and visually appealing user interfaces.
-- 🌱 Currently sharpening system design and modern frontend performance skills.
-- 🧠 Practicing Data Structures & Algorithms consistently to sharpen my problem-solving skills.
-- 📫 You can reach me at **aditibhargava077@gmail.com**
+- 🌱 Currently mastering system design, backend scaling, and frontend performance.
+- 🧠 Consistently practicing DSA to enhance algorithmic skills.
+- 📫 Reach me at: **aditibhargava077@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/aditi-bhargava-881187309" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/aditibhargava7337" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/aditibharww04/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user3565gs/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://discord.gg/aditi095888" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditi-bhargava-881187309" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/aditibhargava7337" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user3565gs/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" height="30" width="40" /></a>
+<a href="https://discord.gg/aditi095888" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
+
+---
+
+### 🏅 Certifications:
+| Certificate | Provider | Credential |
+|-------------|----------|------------|
+| ✅ Meta Front-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/41b0a8cf974f4cb91d7e50306bbaf0ac) |
+| ✅ Meta Back-End Developer | Coursera | [View Certificate 🔗](https://coursera.org/share/034882d6c0cd9d4520364ad5a0e687a6) |
+| ✅ AWS Certified Cloud Practitioner | Amazon Web Services | 🪪 [See Badge](https://www.credly.com/badges/30fbe2b2-b98a-4ab8-a184-961f6877e3e3/public_url) |
+| ✅ Google Cloud Digital Leader | Google Cloud | 🪪 [See Badge](https://www.credential.net/17c04e2f-b8b6-4178-9c10-c74d24a8c4a1) |
 
 ---
 
 ### 🛠️ Tech Stack & Tools:
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📈 LeetCode Stats
+### 📈 LeetCode Stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/user3565gs?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats">
 </p>
